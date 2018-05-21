@@ -1,9 +1,7 @@
 This Zip folder contains the project "Restaurant Recommendation System using Python" and it was submitted to Prof. Annapurna J. regarding J component of the subject in Slot-> A2+TA2.
 
 The Project was submitted by:-
-Ayush Kulshrestha(15BCE0584)
-Shivam Gupta (15BCE0675)
-Yash G Gupta (15BCE0662)
+Nitin Kathpalia
 
 The Components in this folder are:-
 1.DataSets->Datasets related to foursquare website, which was used in review1.
